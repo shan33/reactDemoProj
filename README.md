@@ -1,2 +1,2 @@
-# PersonalWebsite
-The frontend resource codes for my own project.
+# PersonalWebsiteDemo
+It's my react demo repository for my future project.
